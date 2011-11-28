@@ -5,3 +5,4 @@
 /Makefile
 /_build
 /conf.py
+*.idea
